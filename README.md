@@ -124,7 +124,3 @@ Customer-Shopping-Behavior-Analysis/
 
 ---
 
-
-
-Neha Shaji
-B.Tech Artificial Intelligence & Data Science
